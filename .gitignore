@@ -1,4 +1,5 @@
 # Byte-compiled / optimized / DLL files
+GOOGLE_API_KEY="AIzaSyDHx6FCTHwXSeXz-lB1F3pRDbY01TK4t-k"
 __pycache__/
 *.py[cod]
 *$py.class
